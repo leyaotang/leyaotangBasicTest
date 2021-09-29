@@ -1,4 +1,4 @@
-# leyaotangBasicTest
+# About
 Basic Test - Auto - C?
 <div align="center"> 
   <a href="https://youtu.be/BtvJwL8zetg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -18,4 +18,17 @@ Basic Test - Auto - C?
  ##
  ##
  ##
- 
+ // Radical Inclusion
+
+// Blind-friendly, handcap-friendly Games. Social and emerging countries discussion. 
+
+// Retrogames. City of Porto Alegre, Brazil. 
+
+// It is an individual initiative with the support of world friends.
+// professional website: wasdtest.com
+// LinkedIn: linkedin.com/in/leyaotang1984c/
+
+// UE4; Pixel 2d Engine Plugin; 001 Engine; SpriteStack; ArticyDraft
+
+
+
